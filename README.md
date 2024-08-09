@@ -5,10 +5,9 @@
   A versatile Software Engineer proficient in Python, JavaScript, Java, Express, MongoDB, React, Node.js, CSS, HTML, and MySQL. I specialize in full-stack development, crafting clean and efficient solutions. With a keen eye for detail and a commitment to best practices, I thrive in creating impactful software. Let's build something great! 🚀
 </h4>
 
-<h1 style="border-top: 1px solid #dadada">&nbsp;</h1>
+<h1 style="border-top: 1px solid #dadada"></h1>
 
 ## My Skills 🎯
-
 <table align="center" cellpadding="10">
     <tr>
         <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
@@ -39,7 +38,7 @@
     </tr>
 </table>
 
-<h1 style="border-top: 1px solid #dadada">&nbsp;</h1>
+<h1 style="border-top: 1px solid #dadada"></h1>
 
 ## Connect Me 🔗
 
